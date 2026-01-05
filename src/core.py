@@ -5,7 +5,7 @@ def create_llm(groq_api_key):
     """
     Создание LLM
     
-    :param groq_api_key: API-KEY Groq
+    :param groq_api_key: API ключ от Groq
 
     Returns:
         chain:Готовая до роботы LLM
